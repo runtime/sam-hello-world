@@ -51,6 +51,8 @@ Temporary Items
 .idea/**/workspace.xml
 .idea/**/tasks.xml
 .idea/dictionaries
+.idea/vcs.xml
+.idea/sam-hello-world.iml
 
 # Sensitive or high-churn files:
 .idea/**/dataSources/
